@@ -1,0 +1,252 @@
+{
+  "allitem": [
+    {
+      "name": "short sword",
+      "link": "https://i.imgur.com/jtw5R5o.png"
+    },
+    {
+      "name": "long sword",
+      "link": "https://i.imgur.com/5JGDNBP.png"
+    },
+    {
+      "name": "knife",
+      "link": "https://i.imgur.com/clBWeT8.png"
+    },
+    {
+      "name": "mace",
+      "link": "https://i.imgur.com/9kL8nVB.png"
+    },
+    {
+      "name": "chain mace",
+      "link": "https://i.imgur.com/ZkvyqMR.png"
+    },
+    {
+      "name": "blood mace",
+      "link": "https://i.imgur.com/ZjZwDGE.png"
+    },
+    {
+      "name": "glove",
+      "link": "https://i.imgur.com/52eSuZh.png"
+    },
+    {
+      "name": "soul hunting knife",
+      "link": "https://i.imgur.com/H6JIQf5.png"
+    },
+    {
+      "name": "uriel sword",
+      "link": "https://i.imgur.com/XxrgDUK.png"
+    },
+    {
+      "name": "sickle of fate",
+      "link": "https://i.imgur.com/B8x9F1o.png"
+    },
+    {
+      "name": "darts",
+      "link": "https://i.imgur.com/9gfNvMM.png"
+    },
+    {
+      "name": "double sword",
+      "link": "https://i.imgur.com/kqmnJze.png"
+    },
+    {
+      "name": "gladiator spear",
+      "link": "https://i.imgur.com/75P3REj.png"
+    },
+    {
+      "name": "evil palace",
+      "link": "https://i.imgur.com/dgaVOaO.png"
+    },
+    {
+      "name": "thunder sword",
+      "link": "https://i.imgur.com/PvZQtkz.png"
+    },
+    {
+      "name": "fafnir sword",
+      "link": "https://i.imgur.com/GCq26uV.png"
+    },
+    {
+      "name": "sword muramasa",
+      "link": "https://i.imgur.com/UXE8Be0.png"
+    },
+    {
+      "name": "fenrir fangs",
+      "link": "https://i.imgur.com/xpwk1Mf.png"
+    },
+    {
+      "name": "sword complex",
+      "link": "https://i.imgur.com/wdYGe72.png"
+    },
+    {
+      "name": "demon sword",
+      "link": "https://i.imgur.com/zcAo8Ko.png"
+    },
+    {
+      "name": "stormy swords",
+      "link": "https://i.imgur.com/aKa3GD7.png"
+    },
+    {
+      "name": "holy sword",
+      "link": "https://i.imgur.com/CGfldGV.png"
+    },
+    {
+      "name": "love longinus",
+      "link": "https://i.imgur.com/ddRLUkf.png"
+    },
+    {
+      "name": "piercing spear",
+      "link": "https://i.imgur.com/FcY7ZLq.png"
+    },
+    {
+      "name": "ferocious claws",
+      "link": "https://i.imgur.com/GG6w6Z5.png"
+    },
+    {
+      "name": "steel shoes",
+      "link": "https://i.imgur.com/tgSnTGb.png"
+    },
+    {
+      "name": "resilient shoes",
+      "link": "https://i.imgur.com/zfOU6f9.png"
+    },
+    {
+      "name": "guard shoes",
+      "link": "https://i.imgur.com/Sj7m6lr.png"
+    },
+    {
+      "name": "wizard shoes",
+      "link": "https://i.imgur.com/v1bqcjz.png"
+    },
+    {
+      "name": "witch shoes",
+      "link": "https://i.imgur.com/wRGlFuF.png"
+    },
+    {
+      "name": "nomad shoes",
+      "link": "https://i.imgur.com/tpPa9E3.png"
+    },
+    {
+      "name": "hermes shoes",
+      "link": "https://i.imgur.com/s9cYv80.png"
+    },
+    {
+      "name": "guardian armor",
+      "link": "https://i.imgur.com/X54lIq6.png"
+    },
+    {
+      "name": "armor of agony",
+      "link": "https://i.imgur.com/drigsH4.png"
+    },
+    {
+      "name": "armor gaia",
+      "link": "https://i.imgur.com/Aj2lUho.png"
+    },
+    {
+      "name": "hyoga ax",
+      "link": "https://i.imgur.com/OKoKqrA.png"
+    },
+    {
+      "name": "lava shield",
+      "link": "https://i.imgur.com/Bt4cG39.png"
+    },
+    {
+      "name": "ax leviathan",
+      "link": "https://i.imgur.com/69SXDLE.jpg"
+    },
+    {
+      "name": "god cloak",
+      "link": "https://i.imgur.com/VpqgAnZ.png"
+    },
+    {
+      "name": "ice cape",
+      "link": "https://i.imgur.com/vpM7V64.png"
+    },
+    {
+      "name": "Longevity spells",
+      "link": "https://i.imgur.com/NkVmeJF.png"
+    },
+    {
+      "name": "holy book",
+      "link": "https://i.imgur.com/lU0ZlOT.png"
+    },
+    {
+      "name": "lost shield",
+      "link": "https://i.imgur.com/Z9LTyP6.png"
+    },
+    {
+      "name": "berith mask",
+      "link": "https://i.imgur.com/OgnKUzI.png"
+    },
+    {
+      "name": "ice staff",
+      "link": "https://i.imgur.com/VUb0zwZ.png"
+    },
+    {
+      "name": "exploding staff",
+      "link": "https://i.imgur.com/IlCTHO2.png"
+    },
+    {
+      "name": "great magician jade",
+      "link": "https://i.imgur.com/1fbOIhZ.png"
+    },
+    {
+      "name": "frost ball",
+      "link": "https://i.imgur.com/MOgnngh.png"
+    },
+    {
+      "name": "radial command",
+      "link": "https://i.imgur.com/cusqecb.png"
+    },
+    {
+      "name": "skadi ring band",
+      "link": "https://i.imgur.com/LNyi0rn.png"
+    },
+    {
+      "name": "crown hecate",
+      "link": "https://i.imgur.com/hievXmn.png"
+    },
+    {
+      "name": "scepter rhea",
+      "link": "https://i.imgur.com/MrJ5n48.png"
+    },
+    {
+      "name": "apocalyptic sword",
+      "link": "https://i.imgur.com/aQ94hlU.png"
+    },
+    {
+      "name": "legendary shield",
+      "link": "https://i.imgur.com/3PfA4y3.png"
+    },
+    {
+      "name": "sword cross",
+      "link": "https://i.imgur.com/s9fQspt.png"
+    },
+    {
+      "name": "sword of the sage",
+      "link": "https://i.imgur.com/FaAMj8b.png"
+    },
+    {
+      "name": "Troy Medal",
+      "link": "https://i.imgur.com/9Gt5AJE.png"
+    },
+    {
+      "name": "great earth force",
+      "link": "https://i.imgur.com/rklx4Zf.png"
+    },
+    {
+      "name": "open earth bound",
+      "link": "https://i.imgur.com/yMFilBf.png"
+    },
+    {
+      "name": "Great Earth of Destruction",
+      "link": "https://i.imgur.com/7XhvOFP.png"
+    },
+    {
+      "name": "Great Demon Eye",
+      "link": "https://i.imgur.com/Lh5HS4B.png"
+    },
+    {
+      "name": "great earth god shield",
+      "link": "https://i.imgur.com/ZuIvWUB.png"
+    }
+  ]
+}
